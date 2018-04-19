@@ -1,0 +1,10 @@
+#Temas OPE:
+
+1.	Robôs Intersic:
+Intersic é um CRM da empresa Claro Brasil (Net e Claro). Assessorias financeiras como a Credit Cash, na qual eu trabalho, sofrem por falta de informações rápidas e precisas, pois a Claro não disponibiliza um espelho do banco de dados deles, ou seja, tudo que precisamos, sempre tem que ser extraído no front (sistema) o que demora muitos minutos, chega a travar a máquina, o excel e tudo mais até chegar na formatação e resultado desejado. A ideia é fazer um robô que entre no Intersic, logue, entre nas páginas de relatórios, baixe-os, copie-os e jogue-os para o BD, sendo possível fazer consultas(query) e programações(procedures) rápidas, isso ajudaria na área de MIS, Estratégia, Control Desk, Supervisão e outros que utilizam informações deste CRM.
+O cliente seria o coordenador de MIS, Carlos Eduardo, que já concordou em nos dar suporte nas ferramentas que precisarmos.
+
+
+2.	Sistema/App para ansiedade:
+Ansiedade é um problema que vem se agravando na sociedade, principalmente entre os jovens. Uma amiga que estuda psicologia e também sofre disso, deu a ideia de fazermos um projeto para pessoas que sofrem com isso diariamente, onde teria várias coisas para distração e para acalmar alguém que sofre de ansiedade. Ela concordou em dar apoio em informações da área da psicologia para que tenhamos êxito no projeto, e que ele realmente ajude as pessoas que precisam.
+O cliente seria de inicio, os estudantes de psicologia da UNINOVE Barra Funda.
